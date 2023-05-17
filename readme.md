@@ -7,10 +7,8 @@ This is a simple HTML code for a minimal calculator interface. The calculator in
 To use the calculator interface, open the HTML file in a web browser. The interface will be displayed, and you can interact with the buttons to perform calculations.
 
 
-
-
 ### HTML Code
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -19,6 +17,7 @@ To use the calculator interface, open the HTML file in a web browser. The interf
     <link rel="stylesheet" href="style.css">
     <title>Minimal Calculator</title>
 </head>
+
 <body>
     <h1>Calculator Interface</h1>
     <div>
